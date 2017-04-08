@@ -1,4 +1,4 @@
-# Untitled
+# Test 1 from Rstudio to GitHub
 Kamarul Imran Musa  
 April 8, 2017  
 
@@ -24,4 +24,13 @@ summary(cars)
 You can also embed plots, for example:
 
 ![](test_files/figure-html/pressure-1.png)<!-- -->
+
+## Create another plot
+
+
+```r
+plot(cars$speed)
+```
+
+![](test_files/figure-html/unnamed-chunk-1-1.png)<!-- -->
 

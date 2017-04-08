@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Test 1 from Rstudio to GitHub"
 author: "Kamarul Imran Musa"
 date: "April 8, 2017"
 output: 
@@ -19,5 +19,11 @@ You can also embed plots, for example:
 
 ```{r pressure, echo=FALSE}
 plot(pressure)
+```
+
+## Create another plot
+
+```{r}
+plot(cars$speed)
 ```
 
