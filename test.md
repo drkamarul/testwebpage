@@ -32,5 +32,5 @@ You can also embed plots, for example:
 plot(cars$speed)
 ```
 
-![](test_files/figure-html/unnamed-chunk-1-1.png)<!-- -->
+![](test_files/figure-html/histoplot-1.png)<!-- -->
 

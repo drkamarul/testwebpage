@@ -23,7 +23,7 @@ plot(pressure)
 
 ## Create another plot
 
-```{r}
+```{r histoplot}
 plot(cars$speed)
 ```
 
