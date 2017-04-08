@@ -2,7 +2,9 @@
 title: "Untitled"
 author: "Kamarul Imran Musa"
 date: "April 8, 2017"
-output: html_document
+output: 
+  html_document: 
+    keep_md: yes
 ---
 
 ```{r setup, include=FALSE}
